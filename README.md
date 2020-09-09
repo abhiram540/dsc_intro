@@ -11,7 +11,7 @@ and when they choose, refer to the original notebooks in worked_notebooks
 to check their answers or get unstuck.
 
 # About me
-Hi, I'm Abhi. A Data enthusiast. I love researching, organizing and generating meaningful insights out of structured/unstructured data.
+Hi, I'm Abhi. A Data enthusiast. I love analyzing, researching, organizing and generating meaningful insights out of structured/unstructured data.
 
 # Yelp dataset
 Note, these exercises were put together using Round 12 of Yelp's
