@@ -11,10 +11,7 @@ and when they choose, refer to the original notebooks in worked_notebooks
 to check their answers or get unstuck.
 
 # About me
-Hi, I'm Guy. I'm a mentor with Springboard and really hope you find this taste
-of learning data scientist is something you'd like more of. If you have any
-questions, or are thinking of signing up to take things further with
-Springboard's full courses, then drop me a line. I'll be happy to help.
+Hi, I'm Abhi. A Data enthusiast. I love researching, organizing and generating meaningful insights out of structured/unstructured data.
 
 # Yelp dataset
 Note, these exercises were put together using Round 12 of Yelp's
